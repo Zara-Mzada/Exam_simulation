@@ -1,0 +1,68 @@
+[
+  {
+    "Content": "What is the primary function of a router?",
+    "Answers": {
+      "a": "Connectivity",
+      "b": "Processing",
+      "c": "Output"
+    },
+    "Correct_answer": "a",
+    "Categ_ID": 1,
+    "Question_ID": 6961
+  },
+  {
+    "Content": "What does 'HTTP' stand for?",
+    "Answers": {
+      "a": "Hyper Tech Transmission Protocol",
+      "b": "High Transfer Text Protocol",
+      "c": "HyperText Transfer Protocol"
+    },
+    "Correct_answer": "c",
+    "Categ_ID": 1,
+    "Question_ID": 3663
+  },
+  {
+    "Content": "What is the primary purpose of inheritance in Java?",
+    "Answers": {
+      "a": "Code reusability",
+      "b": "Access control",
+      "c": "Data hiding"
+    },
+    "Correct_answer": "c",
+    "Categ_ID": 2,
+    "Question_ID": 9639
+  },
+  {
+    "Content": "What is the difference between method overriding and method overloading?",
+    "Answers": {
+      "a": "Overriding changes method signature, overloading doesn't",
+      "b": "Overriding provides a new implementation, overloading provides multiple methods with the same name",
+      "c": "Overloading changes method signature, overriding doesn't"
+    },
+    "Correct_answer": "c",
+    "Categ_ID": 2,
+    "Question_ID": 8219
+  },
+  {
+    "Content": "Which DevOps principle focuses on product and service thinking?",
+    "Answers": {
+      "a": "Customer-centric action",
+      "b": "Create with the end in mind",
+      "c": "Automate everything you can"
+    },
+    "Correct_answer": "b",
+    "Categ_ID": 3,
+    "Question_ID": 8627
+  },
+  {
+    "Content": "The platform products control the freedom and restrictions for the DevOps Business System teams. Which cloud services classification will offer the greatest number of restrictions?",
+    "Answers": {
+      "a": "SaaS",
+      "b": "IaaS",
+      "c": "PaaS"
+    },
+    "Correct_answer": "a",
+    "Categ_ID": 3,
+    "Question_ID": 3747
+  }
+]

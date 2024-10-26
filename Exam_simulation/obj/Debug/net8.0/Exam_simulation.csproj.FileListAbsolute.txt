@@ -1,0 +1,17 @@
+/Users/zara/RiderProjects/Exam_simulation/Exam_simulation/bin/Debug/net8.0/Exam_simulation
+/Users/zara/RiderProjects/Exam_simulation/Exam_simulation/bin/Debug/net8.0/Exam_simulation.deps.json
+/Users/zara/RiderProjects/Exam_simulation/Exam_simulation/bin/Debug/net8.0/Exam_simulation.runtimeconfig.json
+/Users/zara/RiderProjects/Exam_simulation/Exam_simulation/bin/Debug/net8.0/Exam_simulation.dll
+/Users/zara/RiderProjects/Exam_simulation/Exam_simulation/bin/Debug/net8.0/Exam_simulation.pdb
+/Users/zara/RiderProjects/Exam_simulation/Exam_simulation/obj/Debug/net8.0/Exam_simulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zara/RiderProjects/Exam_simulation/Exam_simulation/obj/Debug/net8.0/Exam_simulation.AssemblyInfoInputs.cache
+/Users/zara/RiderProjects/Exam_simulation/Exam_simulation/obj/Debug/net8.0/Exam_simulation.AssemblyInfo.cs
+/Users/zara/RiderProjects/Exam_simulation/Exam_simulation/obj/Debug/net8.0/Exam_simulation.csproj.CoreCompileInputs.cache
+/Users/zara/RiderProjects/Exam_simulation/Exam_simulation/obj/Debug/net8.0/Exam_simulation.dll
+/Users/zara/RiderProjects/Exam_simulation/Exam_simulation/obj/Debug/net8.0/refint/Exam_simulation.dll
+/Users/zara/RiderProjects/Exam_simulation/Exam_simulation/obj/Debug/net8.0/Exam_simulation.pdb
+/Users/zara/RiderProjects/Exam_simulation/Exam_simulation/obj/Debug/net8.0/Exam_simulation.genruntimeconfig.cache
+/Users/zara/RiderProjects/Exam_simulation/Exam_simulation/obj/Debug/net8.0/ref/Exam_simulation.dll
+/Users/zara/RiderProjects/Exam_simulation/Exam_simulation/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/zara/RiderProjects/Exam_simulation/Exam_simulation/obj/Debug/net8.0/Exam_simulation.csproj.AssemblyReference.cache
+/Users/zara/RiderProjects/Exam_simulation/Exam_simulation/obj/Debug/net8.0/Exam_sim.0C9D5C70.Up2Date

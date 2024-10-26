@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bZW0WhOlfdXn9r/o6czGxqan9n+FP+alllqDNis8f/Ytd5FUdNvPjh/cqxsJjVHbJ8x82weD+tLh9lA71BXtQA==",
+  "success": true,
+  "projectFilePath": "/Users/zara/RiderProjects/Exam_simulation/Exam_simulation/Exam_simulation.csproj",
+  "expectedPackageFiles": [
+    "/Users/zara/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

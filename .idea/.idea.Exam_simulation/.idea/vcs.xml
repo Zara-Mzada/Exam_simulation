@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../ConsoleApp3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Contact" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Product" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Products" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Turbo.az" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../UserInheritance" vcs="Git" />
+  </component>
+</project>

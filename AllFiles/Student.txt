@@ -1,0 +1,17 @@
+[
+  {
+    "FullName": "Roya Abbsova",
+    "Password": 7141,
+    "Exam_ID": 1
+  },
+  {
+    "FullName": "Mirvari Muradoa",
+    "Password": 3798,
+    "Exam_ID": 1
+  },
+  {
+    "FullName": "Hasan Hasanov",
+    "Password": 9685,
+    "Exam_ID": 3
+  }
+]
