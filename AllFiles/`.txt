@@ -1,0 +1,8 @@
+[
+  {
+    "Correct_answers": 0,
+    "Wrong_answers": 2,
+    "Empty_answers": 0,
+    "Quality_percentage": 0.0
+  }
+]

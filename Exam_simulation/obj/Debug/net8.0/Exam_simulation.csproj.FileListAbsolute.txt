@@ -15,3 +15,4 @@
 /Users/zara/RiderProjects/Exam_simulation/Exam_simulation/bin/Debug/net8.0/Newtonsoft.Json.dll
 /Users/zara/RiderProjects/Exam_simulation/Exam_simulation/obj/Debug/net8.0/Exam_simulation.csproj.AssemblyReference.cache
 /Users/zara/RiderProjects/Exam_simulation/Exam_simulation/obj/Debug/net8.0/Exam_sim.0C9D5C70.Up2Date
+/Users/zara/RiderProjects/Exam_simulation/Exam_simulation/obj/Debug/net8.0/Exam_simulation.sourcelink.json

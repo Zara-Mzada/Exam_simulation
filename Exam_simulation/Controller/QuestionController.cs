@@ -51,19 +51,20 @@ public class QuestionController
         }
         return Questions;
     }
-
+    
+    
     public List<Question> DeleteQuestion(int id)
     {
-        foreach (Question question in Questions)
+        for (int i = Questions.Count - 1; i >= 0; i--)
         {
-            if (id == question.Question_ID)
+            if (Questions[i].Question_ID == id)
             {
-                Questions.RemoveAt(Questions.IndexOf(question));
+                Questions.RemoveAt(i);
             }
         }
-
         return Questions;
     }
+
 
     public int exam;
     public void SelectQuestion(string fullname, int pass, StudentController studentController)
