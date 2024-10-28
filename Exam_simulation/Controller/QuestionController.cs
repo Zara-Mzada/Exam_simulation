@@ -7,7 +7,6 @@ namespace Exam_simulation.Controller;
 public class QuestionController
 {
     public List<Question> Questions { get; set; }
-    // public StudentController studentController = new StudentController();
     public QuestionController()
     {
         Questions = new List<Question>();
@@ -55,7 +54,7 @@ public class QuestionController
     
     public List<Question> DeleteQuestion(int id)
     {
-        for (int i = Questions.Count - 1; i >= 0; i--)
+        for (int i = 0; i <= Questions.Count-1; i++)
         {
             if (Questions[i].Question_ID == id)
             {
